@@ -1,5 +1,5 @@
 # 💫 About Me:
-As a professional software developer specializing in Microsoft .NET technologies, I possess extensive expertise in C#, MVC, Web API, .NET Core, and MS SQL. My skill set extends to front-end technologies such as JavaScript, TypeScript, and Angular, along with a strong command of version control systems including Git, GitHub, SVN, and TFS. Additionally, I am proficient in utilizing Azure DevOps for streamlined development and deployment processes. My comprehensive knowledge and experience enable me to deliver robust and efficient software solutions.
+Highly skilled .NET Developer with over 8 years of experience building scalable, high-performance web applications. Proficient in .NET Core, ASP.NET Core, ASP.NET MVC, C#, MSSQL, JavaScript, TypeScript, Angular and cloud-based solutions using Microsoft Azure. Adept at working in Agile environments, collaborating with cross-functional teams, and delivering quality solutions to complex problems. Passionate about learning new technologies and continuously improving code quality. I stay current with the latest technologies and trends to foster innovation and enhance efficiency. Let’s collaborate and create something exceptional!
 
 
 ## 🌐 Socials:
